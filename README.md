@@ -75,4 +75,5 @@ notebooks/de_Guzman_Abigail_Capstone_Project.ipynb
 
 ## Author
 Abigail De Guzman
-AIM – Postgraduate Diploma in AI & Machine Learning
+Postgraduate Diploma in Artificial Intelligence and Machine Learning
+Asian Institute of Management (AIM)
