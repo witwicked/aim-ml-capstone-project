@@ -71,6 +71,7 @@ pip install -r requirements.txt
 ```
 notebooks/de_Guzman_Abigail_Capstone_Project.ipynb
 ```
+**Note:** The notebook is recommended to be run via Google Colab for convenience.
 
 
 ## Author
