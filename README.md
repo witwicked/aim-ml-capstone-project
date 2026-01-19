@@ -11,7 +11,7 @@ Two presentations accompany this project:
 ---
 
 ## Project Structure
-```bash
+```
 .
 ├── decks/
 │ ├── de-Guzman_Abigail_Capstone-Project_Business-Deck-compressed.pdf
@@ -22,6 +22,7 @@ Two presentations accompany this project:
 ├── README.md
 ├── requirements.txt
 └── LICENSE
+```
 
 ---
 
