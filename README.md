@@ -66,3 +66,13 @@ SHAP (SHapley Additive exPlanations) was used to:
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+3. Open and run:
+```
+notebooks/de_Guzman_Abigail_Capstone_Project.ipynb
+```
+
+
+## Author
+Abigail De Guzman
+AIM – Postgraduate Diploma in AI & Machine Learning
